@@ -17,6 +17,7 @@
 <img align="left" alt="Mishael's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mishael1-d&show_icons=true&hide_border=true"/>
 
 <br />
+---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mishael1-d&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
