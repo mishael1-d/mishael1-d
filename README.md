@@ -28,6 +28,8 @@
 
 <img alt="Mishael's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mishael1-d&show_icons=true&hide_border=true&theme=radical"/>
 
+---
+
 ### 🤩 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
 - [How To Get Started in the Tech Industry](https://dev.to/mishaeldada/how-to-get-started-in-the-tech-industry-1k0i)
