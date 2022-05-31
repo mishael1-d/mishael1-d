@@ -8,11 +8,26 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Mishael | linkedin" width="60px" src="https://camo.githubusercontent.com/1598532a3542326fff0ea5e0481f39287c1a1a201b07b4fff95c5ecd6a30553e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d2532333030373742352e7376673f267374796c653d666c61742d737175617265266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" />][linkedin]
-[<img align="left" alt="Mishael | twitter" width="60px" src="https://camo.githubusercontent.com/d7cb1dd1cb1934a60f80c33b839975af5ce9e376a967b26e14290801ba30eda4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f547769747465722d2532333144413146322e7376673f267374796c653d666c61742d737175617265266c6f676f3d74776974746572266c6f676f436f6c6f723d7768697465" />][twitter]
+[![website](./img/twitter-light.svg)](https://twitter.com/dada_mishael#gh-light-mode-only)
+[![website](./img/twitter-dark.svg)](https://twitter.com/dada_mishael#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/linkedin-light.svg)](https://linkedin.com/in/mishael-dada#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/mishael-dada#gh-dark-mode-only)
 
-<br />
-<br />
+### Languages and Tools:
+
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />][webdevplaylist]
+[<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />][webdevplaylist]
+[<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />][cssplaylist]
+[<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />][jsplaylist]
+[<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />][reactplaylist]
+[<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />][webdevplaylist]
+[<img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />][webdevplaylist]
+[<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />][webdevplaylist]
+[<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />](https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt#gh-dark-mode-only)
+[<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />](https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt#gh-light-mode-only)
+[<img align="left" alt="Terminal" width="26px" src="./img/terminal-light.svg" />](https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt#gh-light-mode-only)
+[<img align="left" alt="Terminal" width="26px" src="./img/terminal-dark.svg" />](https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt#gh-dark-mode-only)
 
 <img alt="Mishael's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mishael1-d&show_icons=true&hide_border=true&theme=radical"/>
 
@@ -31,6 +46,6 @@
 - [How Do I implement Web Scraping With NodeJS](https://dev.to/mishaeldada/how-do-i-implement-web-scraping-with-nodejs-21c6)
 <!-- BLOG-POST-LIST:END -->
 
+[website]: https://mishael.netlify.app
 [linkedin]: https://linkedin.com/in/mishael-dada
 [twitter]: https://twitter.com/Dada_Mishael
-
