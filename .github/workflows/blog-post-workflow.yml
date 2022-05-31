@@ -1,16 +1,16 @@
-name: Lastest blog post workflow
+name: Latest blog post workflow
 on:
-schedule:
-# Runs every hour
-- cron: '0 * * * *'
-workflow_dispatch:
+  schedule:
+    # Runs every hour
+    - cron: '0 * * * *'
+  workflow_dispatch:
 
 jobs:
-update-readme-with-blog:
-name: Update this repo's README with latest blog posts
-runs-on: ubuntu-latest
-steps:`
-- uses: actions/checkout@v2
-- uses: gautamkrishnar/blog-post-workflow@master
-with:
-feed_list: "https://mish-blog.hashnode.dev/"
+  update-readme-with-blog:
+    name: Update this repo's README with latest blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          feed_list: "https://mish-blog.hashnode.dev/"
