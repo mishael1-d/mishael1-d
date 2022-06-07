@@ -39,6 +39,7 @@
 - [How Do I implement Web Scraping With NodeJS](https://dev.to/mishaeldada/how-do-i-implement-web-scraping-with-nodejs-21c6)
 <!-- BLOG-POST-LIST:END -->
 
+### Top Languages Used
 <img align="left" alt="Mishael's Top Lang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mishael1-d&layout=compact&theme=radical" />
 
 <br />
