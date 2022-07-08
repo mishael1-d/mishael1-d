@@ -2,9 +2,8 @@
 
 ## I'm a FrontEnd Developer and UI Designer
 - 😎 I'm currently learning everything 😅
-- 🤩 I'm currently looking for an internship role
 - 🥰 I'm also looking to contribute more to open source project
-- 🤑 2022 Goals: Land my first tech job
+- 🤑 2022 Goals: Land a new tech job
 
 ### Connect with me:
 
