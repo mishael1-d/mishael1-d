@@ -34,6 +34,8 @@
 
 ### 🤩 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Everything You Need To Know About ARRAYS](https://dev.to/mishaeldada/everything-you-need-to-know-about-arrays-302f)
+- [Simple GraphQL Query Using ExpressJs](https://dev.to/mishaeldada/simple-graphql-query-using-expressjs-2n2h)
 - [How To Get Started in the Tech Industry](https://dev.to/mishaeldada/how-to-get-started-in-the-tech-industry-1k0i)
 - [How Do I implement Web Scraping With NodeJS](https://dev.to/mishaeldada/how-do-i-implement-web-scraping-with-nodejs-21c6)
 <!-- BLOG-POST-LIST:END -->
