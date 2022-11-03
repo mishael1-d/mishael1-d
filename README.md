@@ -1,7 +1,7 @@
 ### Hi there, I'm Mishael
 
-## I'm a FrontEnd Developer and UI Designer
-- 😎 I'm currently learning everything 😅
+## I'm a Frontend Engineer
+- 😎 I'm currently learning NextJS 😅
 - 🥰 I'm also looking to contribute more to open source project
 - 🤑 2022 Goals: Land a new tech job
 
