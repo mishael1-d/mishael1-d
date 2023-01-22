@@ -3,7 +3,7 @@
 ## I'm a Frontend Engineer
 - 😎 I'm currently learning NextJS 😅
 - 🥰 I'm also looking to contribute more to open source project
-- 🤑 2022 Goals: Land a new tech job
+- 🤑 2023 Goals: I just want to be happy
 
 ### Connect with me:
 
