@@ -1,9 +1,9 @@
 ### Hi there, I'm Mishael
 
-## I'm a Frontend Engineer
-- 😎 I'm currently learning NextJS 😅
-- 🥰 I'm also looking to contribute more to open source project
-- 🤑 2023 Goals: I just want to be happy
+## I'm a Fullstack Developer
+- 😎 Expert in ReactJS, NextJS, Strapi, Langchain, NodeJS 😅
+- 🥰 Building solution based softwares
+- 🤑 2024 Goals: Get crazy in AI and Blockchain
 
 ### Connect with me:
 
@@ -49,6 +49,6 @@
 
 
 
-[website]: https://mishael.netlify.app
+[website]: https://mishael-dada.netlify.app
 [linkedin]: https://linkedin.com/in/mishael-dada
 [twitter]: https://twitter.com/Dada_Mishael
