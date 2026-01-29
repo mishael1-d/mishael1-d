@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Mishael Dada
 
-## 💼 Senior Fullstack Software Defveloper (5+ years) | AI Automation Expert 
+## 💼 Senior Fullstack Software Developer (5+ years) | AI Automation Expert 
 
 I think before a write any piece of code. Every code written by me is carefully thought of before it is written, i like to design my software's architecture firstly before i begin writing code, doing that alone saves me over 60% of bug-writing. I build **startups** and also help starups **scale** from 0-100 i.e From Ideas -> Market Reseacrh -> MVP -> Production.
 
