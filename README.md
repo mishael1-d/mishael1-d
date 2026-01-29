@@ -1,9 +1,8 @@
 # 👋 Hi, I'm Mishael Dada
 
-## 💼 Fullstack Developer | Software Engineer | AI & Blockchain Enthusiast  
+## 💼 Senior Fullstack Software Defveloper (5+ years) | AI Automation Expert 
 
-I’m a **results-driven software engineer** who builds reliable, scalable, and user-centric digital solutions.  
-My focus is on turning complex business challenges into clean, functional, and elegant web applications.
+I think before a write any piece of code. Every code written by me is carefully thought of before it is written, i like to design my software's architecture firstly before i begin writing code, doing that alone saves me over 60% of bug-writing. I build **startups** and also help starups **scale** from 0-100 i.e From Ideas -> Market Reseacrh -> MVP -> Production.
 
 With years of hands-on experience across **frontend and backend technologies**, I enjoy designing products that are not only beautiful but also **robust, maintainable, and secure**.
 
